@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name": "Juan",
+        "Job": "Developer",
+        "age": 25,
+        "salary": 200,
+        "isActive": true,
+        "country": "Colombia"
+    },
+    {
+        "id": 2,
+        "name": "Maria",
+        "Job": "Designer",
+        "age": 30,
+        "salary": 300,
+        "isActive": false,
+        "country": "Colombia"
+    },
+    {
+        "id": 3,
+        "name": "Pedro",
+        "Job": "Manager",
+        "age": 35,
+        "salary": 400,
+        "isActive": true,
+        "country": "Colombia"
+    }
+]
